@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.a4cecc06.chunk.js",
+    "main.js.map": "/static/js/main.a4cecc06.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c5ea697.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c5ea697.js.map",
+    "static/js/2.22df621d.chunk.js": "/static/js/2.22df621d.chunk.js",
+    "static/js/2.22df621d.chunk.js.map": "/static/js/2.22df621d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d23dd91d8f9c8a3de1f932815056a79e.js": "/precache-manifest.d23dd91d8f9c8a3de1f932815056a79e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.22df621d.chunk.js.LICENSE.txt": "/static/js/2.22df621d.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/static/media/Resume.62f14c49.pdf",
+    "static/media/norway.jpg": "/static/media/norway.79c308b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c5ea697.js",
+    "static/js/2.22df621d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a4cecc06.chunk.js"
+  ]
+}
